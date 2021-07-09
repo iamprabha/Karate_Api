@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Karate_Junit5.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.149 s - in Karate_Junit5.TestRunner
